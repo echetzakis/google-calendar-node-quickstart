@@ -1,0 +1,16 @@
+{
+  "name": "google-calendar-node-quickstart",
+  "version": "1.0.0",
+  "description": "Google Calendar API Quickstart",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "google-auth-library": "^0.10.0",
+    "googleapis": "^18.0.0",
+    "pg": "^6.1.4"
+  }
+}
